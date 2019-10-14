@@ -1,2 +1,2 @@
-# keruni-portofolio
+# keruni-project
 keruni's portofolio

@@ -5,7 +5,6 @@ project-content.txt
      = abc1
      = abc2
 - 12
-- 13
 - 14
   // 14a
 - 15
